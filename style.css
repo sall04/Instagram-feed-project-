@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}.Post {
+    height: 550px;
+    width: 600px;
+    margin: auto;
+}
+.post-header {
+    display: flex;
+    padding: 5px;
+}
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.left-button {
+    text-align: left;
+}
+
+.right-button {
+    text-align: right;
+}
+img {
+    width: 600px;
+}
